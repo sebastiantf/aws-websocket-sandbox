@@ -206,6 +206,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"dotenv@npm:^16.4.5":
+  version: 16.4.5
+  resolution: "dotenv@npm:16.4.5"
+  checksum: 301a12c3d44fd49888b74eb9ccf9f07a1f5df43f489e7fcb89647a2edcd84c42d6bc349dc8df099cd18f07c35c7b04685c1a4f3e6a6a9e6b30f8d48c15b7f49c
+  languageName: node
+  linkType: hard
+
 "enabled@npm:2.0.x":
   version: 2.0.0
   resolution: "enabled@npm:2.0.0"
@@ -399,6 +406,7 @@ __metadata:
   dependencies:
     "@types/node": ^18.7.16
     "@types/ws": ^8.5.10
+    dotenv: ^16.4.5
     ts-node: ^10.9.1
     typescript: ^4.8.3
     winston: ^3.8.2
